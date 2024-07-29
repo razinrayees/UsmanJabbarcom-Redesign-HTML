@@ -1,0 +1,102 @@
+.about-me-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-me-about-me {
+  width: 100%;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.about-me-text {
+  top: 162px;
+  left: 115px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Be Vietnam;
+  font-weight: 600;
+  line-height: 79.10000085830688%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text02 {
+  top: 226px;
+  left: 114px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Be Vietnam;
+  font-weight: 400;
+  line-height: 108.00000429153442%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text03 {
+  font-weight: 400;
+}
+.about-me-text04 {
+  font-weight: 700;
+}
+.about-me-text05 {
+  font-weight: 400;
+}
+.about-me-text07 {
+  font-weight: 400;
+}
+.about-me-text09 {
+  font-weight: 400;
+}
+.about-me-text11 {
+  font-weight: 400;
+}
+.about-me-text12 {
+  font-weight: 700;
+}
+.about-me-text14 {
+  font-weight: 700;
+}
+.about-me-text15 {
+  font-weight: 400;
+}
+.about-me-text17 {
+  font-weight: 400;
+}
+.about-me-text19 {
+  font-weight: 400;
+}
+.about-me-text21 {
+  font-weight: 400;
+}
+.about-me-text22 {
+  font-weight: 700;
+}
+.about-me-text23 {
+  font-weight: 400;
+}
+.about-me-text25 {
+  font-weight: 400;
+}
+.about-me-text26 {
+  font-weight: 700;
+}
+.about-me-text27 {
+  font-weight: 400;
+}
+.about-me-text28 {
+  font-weight: 700;
+}
